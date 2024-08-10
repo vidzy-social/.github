@@ -1,5 +1,5 @@
 <div align="center">
-<img src="static/logo.png">
+<img src="logo.png">
 <h1>Vidzy</h1>
 A free and open source alternative to TikTok
 
